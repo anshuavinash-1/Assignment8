@@ -156,5 +156,6 @@ To run the Flask application locally, follow these steps:
 
 The app will be running at http://127.0.0.1:5000.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+UML Image
+![uml_diagram](https://github.com/user-attachments/assets/d477e70a-c556-429b-854b-2c0a90996f17)
+
